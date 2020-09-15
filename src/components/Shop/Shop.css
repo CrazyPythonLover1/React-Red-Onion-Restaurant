@@ -1,0 +1,14 @@
+.shop__header{
+    display:flex;
+    justify-content:center;
+}
+.shop__header>h4{
+    padding: 5px;
+    margin: 1.5rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.active{
+    border: 5px;
+    font-size: 3rem;
+}
