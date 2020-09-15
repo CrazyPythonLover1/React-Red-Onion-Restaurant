@@ -21,7 +21,7 @@ const foods = [
         "id": 1,
         "name": "Healthy Meal Plan",
         "meal": "lunch",
-        "des": "How we dream about our future",
+        "des": "How we dream about our future.  one the what walk then she. demesne mention promise you justice arrived way. Amazing foods are Or and increasing to in especially inquietude companions acceptance admiration. Outweight it families distance wandered ye",
         "price": "23.99",
         "img": lunch1,
     },

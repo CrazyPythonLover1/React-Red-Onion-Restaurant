@@ -1,0 +1,11 @@
+.food__detail{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.food__info p{
+    color: gray;
+    width: 400px;
+    line-height: 1.5;
+    font-size: 1rem;
+}
