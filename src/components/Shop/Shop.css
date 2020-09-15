@@ -12,3 +12,7 @@
     border: 5px;
     font-size: 3rem;
 }
+.food__item{
+display: ;
+  grid-template-columns: 1fr 1fr 1fr;
+}

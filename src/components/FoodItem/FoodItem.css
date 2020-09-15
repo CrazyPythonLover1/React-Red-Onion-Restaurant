@@ -1,3 +1,11 @@
 .food__item{
     margin: 2rem 3rem;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    width:340px;
+}
+
+.food__title{
+    text-decoration: none;
 }
